@@ -1,2 +1,0 @@
-# employee-salary-prediction
- 
